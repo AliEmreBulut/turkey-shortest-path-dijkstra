@@ -26,5 +26,4 @@ Sistem, haritadaki lokasyonları birer düğüm (node), aralarındaki mesafeleri
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/AliEmreBulut/](https://github.com/AliEmreBulut/)[
-turkey-shortest-path-dijkstra].git
+   git clone [https://github.com/AliEmreBulut/](https://github.com/AliEmreBulut/)[turkey-shortest-path-dijkstra].git
